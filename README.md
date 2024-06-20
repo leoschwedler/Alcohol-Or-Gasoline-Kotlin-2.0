@@ -8,8 +8,8 @@ This project implements a calculator that helps users determine which type of fu
 
 ## 📷 Screenshots
 
-<img src="https://github.com/leoschwedler/Alcohol-Or-Gasoline-Kotlin-2.0/assets/77402907/26e75000-3b40-412a-aa25-fe1c34dbe450" width="260"/>
 <img src="https://github.com/leoschwedler/Alcohol-Or-Gasoline-Kotlin-2.0/assets/77402907/01b4e15b-0066-467a-b1d1-1640f75d1235" width="260"/>
+<img src="https://github.com/leoschwedler/Alcohol-Or-Gasoline-Kotlin-2.0/assets/77402907/26e75000-3b40-412a-aa25-fe1c34dbe450" width="260"/>
 
 ## 🚀 Implementation Details
 
